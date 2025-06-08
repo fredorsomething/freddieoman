@@ -1,5 +1,5 @@
 Fred/FredOrSomething
 
-Learning Python, Java (Various Minecraft projects + some silly scripts)
+Fullstack, Python, Java (Various projects & some silly scripts)
 
 📫 Contact/inquiries (discord): fredorsomething
